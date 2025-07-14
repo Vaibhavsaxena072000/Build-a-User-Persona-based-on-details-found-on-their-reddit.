@@ -1,0 +1,31 @@
+USER PERSONA FOR u/kojied
+
+-----------------------------------------
+Name: u/kojied
+Occupation: Inferred from Reddit activity
+Location: Inferred from subreddits
+Status: Inferred from comment content
+Archetype: Derived from themes (e.g. Explorer, Analyst)
+-----------------------------------------
+
+MOTIVATIONS:
+- Based on common themes in posts and comments
+📌 Cited: "I feel violated by intern season There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally h..." → https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+FRUSTRATIONS:
+- Common complaints or emotional language
+📌 Cited: "I feel violated by intern season There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally h..." → https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+BEHAVIOR & HABITS:
+- Posts in ManorLords, AskReddit, VisionPro, OnePiece, plantclinic
+- Writing style: Verbose
+GOALS & NEEDS:
+- Derived from language like 'I want', 'I hope', etc.
+📌 Cited: "I feel violated by intern season There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally h..." → https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+PERSONALITY:
+- Based on sentiment, writing tone and subreddit types
+- Tone: Positive
+- Style: Verbose
+📌 Cited: "I feel violated by intern season There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally h..." → https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+

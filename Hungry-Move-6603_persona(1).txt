@@ -1,0 +1,31 @@
+USER PERSONA FOR u/Hungry-Move-6603
+
+-----------------------------------------
+Name: u/Hungry-Move-6603
+Occupation: Inferred from Reddit activity
+Location: Inferred from subreddits
+Status: Inferred from comment content
+Archetype: Derived from themes (e.g. Explorer, Analyst)
+-----------------------------------------
+
+MOTIVATIONS:
+- Based on common themes in posts and comments
+📌 Cited: "Productive weekend activities in LKO? [removed]..." → https://www.reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+
+FRUSTRATIONS:
+- Common complaints or emotional language
+📌 Cited: "Productive weekend activities in LKO? [removed]..." → https://www.reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+
+BEHAVIOR & HABITS:
+- Posts in lucknow, nagpur, IndiaUnfilter, indiasocial, amiugly
+- Writing style: Concise
+GOALS & NEEDS:
+- Derived from language like 'I want', 'I hope', etc.
+📌 Cited: "Productive weekend activities in LKO? [removed]..." → https://www.reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+
+PERSONALITY:
+- Based on sentiment, writing tone and subreddit types
+- Tone: Neutral
+- Style: Concise
+📌 Cited: "Productive weekend activities in LKO? [removed]..." → https://www.reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/
+
